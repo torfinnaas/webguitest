@@ -15,7 +15,7 @@ This project is a web-based GUI for managing a MySQL database with a simple user
    - Connect to your AWS RDS MySQL instance
    - Run the SQL script in `database-setup.sql` to create the database schema and sample data
   
-   - Connection: webguidb-instance-1.clcicqykwlte.eu-north-1.rds.amazonaws.com
+   - Connection: webguidb-cluster-instance-1.clcicqykwlte.eu-north-1.rds.amazonaws.com
    - Usr: torfinn/vanlig
 
 2. **Configure Backend**:
